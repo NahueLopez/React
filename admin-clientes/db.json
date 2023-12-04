@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juana",
+      "empresa": "Serinisima",
+      "email": "juana@juana.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Bingo"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Pepsi"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Coca-Cola"
+    },
+    {
+      "nombre": "Panchito",
+      "empresa": "Nike",
+      "email": "panchi@gmail.com",
+      "telefono": "2236184585",
+      "notas": "Necesita una tienda de zapatillas\n",
+      "id": 6
+    },
+    {
+      "nombre": "Nahuel",
+      "empresa": "React",
+      "email": "coreo@coreo.com",
+      "telefono": "2236185178",
+      "notas": "Necesito una web",
+      "id": 7
+    }
+  ]
+}

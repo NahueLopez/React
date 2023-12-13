@@ -1,1 +1,0 @@
-Son funciones en JS, pero se les peude agregear algunas de las caracteristicas de react como el State o Estado pra hacerlos interactivos.
